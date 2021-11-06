@@ -1,0 +1,1 @@
+web: gunicorn eduone_new.wsgi
